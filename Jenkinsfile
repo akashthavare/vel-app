@@ -4,7 +4,7 @@ agent{
 
 label{
 
-label 'label-172.31.37.80'
+label '172.31.37.80'
 customWorkspace  '/mnt/pipeline'
 }
 }
